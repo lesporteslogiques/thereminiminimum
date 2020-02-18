@@ -12,7 +12,7 @@ https://sensorium.github.io/Mozzi/
 
 ## téléchargement du driver pour MacOS
 
-http://wch.cn/download/CH341SER_MAC_ZIP.html (télécharger à partir du bouton bleu à droite, dézipper, exécuter le fichier et suivre la procédure en anglais)
+http://lesporteslogiques.net/wiki/ressource/electronique/arduino/installation_ch340_macos
 
 ## circuit 
 
